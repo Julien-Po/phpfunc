@@ -1,0 +1,18 @@
+.pageTitle {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#Messages, #messageButton {
+    border-radius: 4px;
+}
+
+.hiddenMessage {
+    display: none;
+    color: green;
+}
